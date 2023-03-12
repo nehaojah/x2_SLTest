@@ -1,1 +1,3 @@
-x2_SLTest\SLTest.class
+testcases\BaseClass.class
+pages\LoginPage.class
+testcases\LoginTest.class
